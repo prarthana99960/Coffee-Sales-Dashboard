@@ -220,4 +220,4 @@ The project showcases strong skills in:
 * Excel
 * Data Analysis
 * Dashboard Development
-
+![Image Name](image_name.png)
