@@ -1,3 +1,7 @@
+he Coffee Sales Dashboard is an interactive Excel-based data analytics project designed to analyze and visualize coffee sales performance. The dashboard converts raw sales data into meaningful business insights using charts, KPIs, pivot tables, and slicers.
+
+This project helps in understanding customer purchasing behavior, product performance, sales trends, and overall business growth through a clean and interactive dashboard.
+
 # Coffee Sales Dashboard using Excel
 
 ## Project Overview
